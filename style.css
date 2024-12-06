@@ -1,6 +1,7 @@
 .d-f { display: flex; }
 .d-b { display: block; }
 .d-i { display: inline; }
+.d-n { display: none; }
 
 .jc-c { justify-content: center; }
 .jc-s { justify-content: start; }

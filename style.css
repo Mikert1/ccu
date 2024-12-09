@@ -92,6 +92,15 @@
 .h-75 { height: 75%; }
 .h-100 { height: 100%; }
 
+@media screen and (max-width: 800px) {
+    .w-100_800 { width: 100%; }
+    .w-75_800 { width: 75%; }
+    .w-50_800 { width: 50%; }
+    .w-25_800 { width: 25%; }
+    .df-c_800 { flex-direction: column; }
+    .df-r_800 { flex-direction: row; }
+}
+
 /* other */
 .m-0 { margin: 0 !important; }
 .g-5 { gap: 5px; }

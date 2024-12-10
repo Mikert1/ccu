@@ -109,6 +109,22 @@
 .h-100 { height: 100%; }
 
 @media screen and (max-width: 800px) {
+    .d-f_800 { display: flex; }
+    .d-b_800 { display: block; }
+    .d-i_800 { display: inline; }
+    .d-n_800 { display: none; }
+    .jc-c_800 { justify-content: center; }
+    .jc-s_800 { justify-content: start; }
+    .jc-e_800 { justify-content: end; }
+    .jc-sb_800 { justify-content: space-between; }
+    .jc-sa_800 { justify-content: space-around; }
+    .jc-se_800 { justify-content: space-evenly; }
+    .ai-c_800 { align-items: center; }
+    .ai-s_800 { align-items: start; }
+    .ai-e_800 { align-items: end; }
+    .ai-sb_800 { align-items: space-between; }
+    .ai-sa_800 { align-items: space-around; }
+    .ai-se_800 { align-items: space-evenly; }
     .w-100_800 { width: 100%; }
     .w-75_800 { width: 75%; }
     .w-50_800 { width: 50%; }

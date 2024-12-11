@@ -108,6 +108,11 @@
 .h-75 { height: 75%; }
 .h-100 { height: 100%; }
 
+.ir-p { image-rendering: pixelated;}
+.ir-c { image-rendering: crisp-edges; }
+.ir-o { image-rendering: optimizeQuality; }
+.ir-a { image-rendering: auto; }
+
 @media screen and (max-width: 800px) {
     .d-f_800 { display: flex; }
     .d-b_800 { display: block; }
